@@ -40,3 +40,7 @@ pre.sh_sourceCode .sh_string {
 .content.full-img > p {
   margin: 0;
 }
+
+img[alt='ue-akeru'] {
+  margin-top: 200px;
+}
